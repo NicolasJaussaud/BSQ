@@ -1,15 +1,13 @@
 # BSQ
-The purpose of this project is to find the biggest square.
-The 'o' representing obstacles.
-When the biggest square was find, the '.' are replaced by 'x'.
+The purpose of this project is to create a fully functionnal shell, inspired of "tcsh".
+This is the last project of the first years at Epitech.
 
 # PRECONDITIONS
 -gcc
 -make
 
 # EXECUTION
-"./bsq map"
-you have to disposition 2 map.
+"./42sh"
 
 # CREDIT
 Langage C | Nicolas Jaussaud
